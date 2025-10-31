@@ -1,0 +1,15 @@
+creation_timestamp: 1761906167764
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1761906167764
+model_id: m-abc58f30af25408f89c103f49ec60b43
+name: IrisRandomForestClassifierModel
+run_id: 3d3b9d4933d44ca5bd6df6bb1a76bddd
+run_link: ''
+source: models:/m-abc58f30af25408f89c103f49ec60b43
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/593240733714177901/models/m-abc58f30af25408f89c103f49ec60b43/artifacts
+user_id: null
+version: 1

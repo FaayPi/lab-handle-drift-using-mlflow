@@ -1,0 +1,10 @@
+digest: a3fbca02
+name: dataset
+profile: '{"num_rows": 30, "num_elements": 120}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length (cm)", "required":
+  true}, {"type": "double", "name": "sepal width (cm)", "required": true}, {"type":
+  "double", "name": "petal length (cm)", "required": true}, {"type": "double", "name":
+  "petal width (cm)", "required": true}]}'
+source: '{"tags": {"mlflow.user": "feepieper", "mlflow.source.name": "iris_RandomForestClassifier_drift.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "b7965efb6c9de510d6751f2443efb08ea5cd33be"}}'
+source_type: code

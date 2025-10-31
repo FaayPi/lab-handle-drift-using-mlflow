@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593240733714177901/2f6acd17da5047dcbcb8557e64f709f9/artifacts
+end_time: 1761906168136
+entry_point_name: ''
+experiment_id: '593240733714177901'
+lifecycle_stage: active
+run_id: 2f6acd17da5047dcbcb8557e64f709f9
+run_name: bemused-shoat-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761906168075
+status: 3
+tags: []
+user_id: feepieper

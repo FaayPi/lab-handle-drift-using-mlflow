@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/593240733714177901/3d3b9d4933d44ca5bd6df6bb1a76bddd/artifacts
+end_time: 1761906167800
+entry_point_name: ''
+experiment_id: '593240733714177901'
+lifecycle_stage: active
+run_id: 3d3b9d4933d44ca5bd6df6bb1a76bddd
+run_name: baseline_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761906162328
+status: 3
+tags: []
+user_id: feepieper
